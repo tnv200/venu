@@ -1,3 +1,3 @@
-my nsme id venu
+my name id venu
 i am from andhra
 # venu
